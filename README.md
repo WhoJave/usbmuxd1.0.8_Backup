@@ -9,11 +9,7 @@
   #default password alpine
   ```
 
-- 
+  
 
-- 目录， chmod +x tcprelay.py
-  运行 ./tcprelay.py -t 22:2222
-
-再起一个终端（commad+t), ssh root@localhost -p 2222就可以登录越狱的iPhone了 
 
 --------------------- 
